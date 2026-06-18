@@ -1,0 +1,16 @@
+get http://localhost:3000/ww2 HTTP/1.1
+get http://localhost:3000/ww2/2 HTTP/1.1
+
+POST http://localhost:3000/ww2 HTTP/1.1
+Content-Type: application/json
+{  
+    "nombre" : "Douglas MacArthur",
+    "pais": "Estados Unidos",
+    "rol": "General del Ejército",
+    "bando": "Aliados"
+}
+
+PUT http://localhost:3000/ww2 HTTP/1.1
+Content-Type: application/json
+
+

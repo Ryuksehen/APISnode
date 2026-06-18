@@ -1,0 +1,74 @@
+{
+  "p_ww2": [
+    {
+      "id": 1,
+      "nombre": "Winston Churchill",
+      "pais": "Reino Unido",
+      "rol": "Primer Ministro",
+      "bando": "Aliados"
+    },
+    {
+      "id": 2,
+      "nombre": "Franklin D. Roosevelt",
+      "pais": "Estados Unidos",
+      "rol": "Presidente",
+      "bando": "Aliados"
+    },
+    {
+      "id": 3,
+      "nombre": "Iósif Stalin",
+      "pais": "Unión Soviética",
+      "rol": "Líder Supremo",
+      "bando": "Aliados"
+    },
+    {
+      "id": 4,
+      "nombre": "Charles de Gaulle",
+      "pais": "Francia",
+      "rol": "Líder de la Francia Libre",
+      "bando": "Aliados"
+    },
+    {
+      "id": 5,
+      "nombre": "Dwight D. Eisenhower",
+      "pais": "Estados Unidos",
+      "rol": "General del Ejército",
+      "bando": "Aliados"
+    },
+    {
+      "id": 6,
+      "nombre": "Alan Turing",
+      "pais": "Reino Unido",
+      "rol": "Criptógrafo",
+      "bando": "Aliados"
+    },
+    {
+      "id": 7,
+      "nombre": "Erwin Rommel",
+      "pais": "Alemania",
+      "rol": "Mariscal de Campo",
+      "bando": "Eje"
+    },
+    {
+      "id": 8,
+      "nombre": "Hideki Tojo",
+      "pais": "Imperio del Japón",
+      "rol": "Primer Ministro",
+      "bando": "Eje"
+    },
+    {
+      "id": 9,
+      "nombre": "Bernard Montgomery",
+      "pais": "Reino Unido",
+      "rol": "Mariscal de Campo",
+      "bando": "Aliados"
+    },
+    {
+      "id": 10,
+      "nombre": "Georghi Zhúkov",
+      "pais": "Unión Soviética",
+      "rol": "Mariscal de la Unión Soviética",
+      "bando": "Aliados"
+    }
+  ]
+}
