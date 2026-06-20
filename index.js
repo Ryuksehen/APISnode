@@ -1,9 +1,11 @@
 import express from 'express'
+import cors from 'cors'
 import fs from 'fs'
 import bodyParser from 'body-parser'
 import { pid } from 'process';
 
 const app = express();
+app.use(cors())
 app.use(bodyParser.json())
 
 const readData = () => {
